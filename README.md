@@ -19,6 +19,7 @@ Enabling easy bug tracking and rollback._
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Setting up New Repository
+
 Log into GitHub and click New repository.
 Enter a repository name (e.g., my_project).
 Choose public or private visibility.
