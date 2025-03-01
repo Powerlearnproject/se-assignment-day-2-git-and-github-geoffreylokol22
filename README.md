@@ -26,13 +26,13 @@ Choose public or private visibility.
 (Optional) Add a README, .gitignore, and license.
 Click Create repository.
 Initialize locally using:
-_git init
-git remote add origin https://github.com/your-username/my-project.git_
+git init
+git remote add origin https://github.com/your-username/my-project.git
 
 Important Decisions:
-_Visibility (Public vs. Private): Determines who can see the project.
+Visibility (Public vs. Private): Determines who can see the project.
 License: Defines how others can use your code.
-.gitignore: Helps exclude unnecessary files (e.g., node_modules, .env)._
+.gitignore: Helps exclude unnecessary files (e.g., node_modules, .env).
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 A README is the first file users see in a repository. A well-written one should include:
